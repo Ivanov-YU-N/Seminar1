@@ -1,0 +1,15 @@
+/home/eve/Рабочий стол/CSharp/Seminar1/Exemple04/obj/Debug/net6.0/Exemple04.csproj.AssemblyReference.cache
+/home/eve/Рабочий стол/CSharp/Seminar1/Exemple04/obj/Debug/net6.0/Exemple04.GeneratedMSBuildEditorConfig.editorconfig
+/home/eve/Рабочий стол/CSharp/Seminar1/Exemple04/obj/Debug/net6.0/Exemple04.AssemblyInfoInputs.cache
+/home/eve/Рабочий стол/CSharp/Seminar1/Exemple04/obj/Debug/net6.0/Exemple04.AssemblyInfo.cs
+/home/eve/Рабочий стол/CSharp/Seminar1/Exemple04/obj/Debug/net6.0/Exemple04.csproj.CoreCompileInputs.cache
+/home/eve/Рабочий стол/CSharp/Seminar1/Exemple04/bin/Debug/net6.0/Exemple04
+/home/eve/Рабочий стол/CSharp/Seminar1/Exemple04/bin/Debug/net6.0/Exemple04.deps.json
+/home/eve/Рабочий стол/CSharp/Seminar1/Exemple04/bin/Debug/net6.0/Exemple04.runtimeconfig.json
+/home/eve/Рабочий стол/CSharp/Seminar1/Exemple04/bin/Debug/net6.0/Exemple04.dll
+/home/eve/Рабочий стол/CSharp/Seminar1/Exemple04/bin/Debug/net6.0/ref/Exemple04.dll
+/home/eve/Рабочий стол/CSharp/Seminar1/Exemple04/bin/Debug/net6.0/Exemple04.pdb
+/home/eve/Рабочий стол/CSharp/Seminar1/Exemple04/obj/Debug/net6.0/Exemple04.dll
+/home/eve/Рабочий стол/CSharp/Seminar1/Exemple04/obj/Debug/net6.0/ref/Exemple04.dll
+/home/eve/Рабочий стол/CSharp/Seminar1/Exemple04/obj/Debug/net6.0/Exemple04.pdb
+/home/eve/Рабочий стол/CSharp/Seminar1/Exemple04/obj/Debug/net6.0/Exemple04.genruntimeconfig.cache
